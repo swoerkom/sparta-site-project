@@ -2,7 +2,8 @@
 
 **Task:** To product a responsive three page website using the Bootstrap framework. 
 
-Created a website for a cinema with the following pages: 
+
+**Result:** Created a website for a cinema with the following pages: 
 - Home page
 - Coming Soon page
 - Our Location page
